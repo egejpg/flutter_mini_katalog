@@ -3,9 +3,9 @@
 Mini Catalog, **FakeStoreAPI** kullanarak gerçek zamanlı veri çeken modern arayüzlü bir ürün kataloğu ve sepet yönetim uygulamasıdır. Proje, Flutter'ın temel prensiplerini API entegrasyonunu ve state yönetimi mantığını anlamak için geliştirilmiştir.
 
 ## 🚀 Proje Resimleri
-<img width="360" height="800" alt="Screenshot_20260420_161508" src="https://github.com/user-attachments/assets/03639673-30d9-4480-86eb-23ff0a9859b1" />
-<img width="360" height="800" alt="Screenshot_20260420_161515" src="https://github.com/user-attachments/assets/2e7a3ebb-821b-4012-be3b-69bf33b5cb3f" />
-<img width="360" height="800" alt="Screenshot_20260420_161451" src="https://github.com/user-attachments/assets/35bb8605-4214-4a78-be84-c17ca4e82831" />
+<img width="240" height="535" alt="Screenshot_20260420_161508" src="https://github.com/user-attachments/assets/03639673-30d9-4480-86eb-23ff0a9859b1" />
+<img width="240" height="535" alt="Screenshot_20260420_161515" src="https://github.com/user-attachments/assets/2e7a3ebb-821b-4012-be3b-69bf33b5cb3f" />
+<img width="240" height="535" alt="Screenshot_20260420_161451" src="https://github.com/user-attachments/assets/35bb8605-4214-4a78-be84-c17ca4e82831" />
 
 ## 🚀 Proje Hakkında
 
